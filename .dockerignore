@@ -1,0 +1,12 @@
+node_modules
+dist
+.git
+.gitignore
+_image_backups
+*.md
+.vscode
+.idea
+.env
+.env.*
+**/*.orig.png
+**/*.bak
